@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Buka-Berk
-- 👀 I’m interested in all things Computer Science and technical in general!
-- 🌱 I’m currently in my 3rd year of University studying Computer Science.
+- 👀 I’m interested in computer science and Product Management!
 - 📫 Thanks!
 
 <!---
